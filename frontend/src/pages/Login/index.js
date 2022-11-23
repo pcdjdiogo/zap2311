@@ -24,8 +24,8 @@ const Copyright = () => {
     <Typography variant="body2" color="textSecondary" align="center">
       © {new Date().getFullYear()}
       {" - "}
-      <Link color="inherit" href="https://infobyte.tec.br">
-        Infobyte.tec.br - v{system.version}
+      <Link color="inherit" href="https://google.com.br">
+        Whatsappp - v{system.version}
       </Link>
       {"."}
     </Typography>
